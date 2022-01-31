@@ -1,6 +1,9 @@
-### Hi there 👋
-I'm currently helping to develop a module to solve the general relativistic hydrodynamics equations using discontinuous Galerkin methods for [thornado](https://www.github.com/endeve/thornado). This includes adapting the capabilities of [AMReX](https://www.github.com/AMReX-Codes/amrex) to work with DG methods.
+![Header](https://raw.githubusercontent.com/dunhamsj/dunhamsj/main/images/banner.png)
 
+### Hi there 👋
+I'm currently helping to develop a module to solve the general relativistic hydrodynamics equations using discontinuous Galerkin methods for [thornado](https://www.github.com/endeve/thornado). This includes adapting the capabilities of [AMReX](https://www.github.com/AMReX-Codes/amrex) to work with DG methods. See my personal website [here](https://www.samueljdunham.com).
+
+Check out my socials:
 <p align="center">  
 
   <a href="https://www.linkedin.com/in/samueljdunham/">
