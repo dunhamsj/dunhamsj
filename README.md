@@ -20,7 +20,8 @@ My name is Sam and I'm a sixth year PhD Candidate at Vanderbilt University in th
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunhamsj&theme=vue"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dunhamsj&theme=vue"/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dunhamsj.visitor-badge)
+
 
 <!--
 **dunhamsj/dunhamsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
